@@ -35,8 +35,8 @@ body{
 /* To Here */
 
 main{
-    width:27vw;
-    height:82vh;
+    width:400px;
+    height:640px;
     background:hsl(0,0%,12%);
     border-radius:10px;
 }
